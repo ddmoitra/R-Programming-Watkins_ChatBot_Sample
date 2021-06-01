@@ -14,9 +14,17 @@
 
 * Based on key words asked in the questions, Watkins is able to discern to answer similar questions using different response branches in the data model. Note - The same sentence with slight modification is appended to the "best" keyword compared to the "latest" keyword.
 
+![image](https://user-images.githubusercontent.com/46364751/120251648-3b1f2080-c250-11eb-8b7e-38eadd3cc7c8.png)
+
+
 * Upon attempting to use the same keyword (in this case, "how"), it is observed Watson attempts to respond with a simplistic answer to a short question. However with more keyword included in one sentence ("how" and "skills") which have multiple response branches, the evaluation and corresponding response branch turns out to be different, showing nuance can be introduced into the model
 
+![image](https://user-images.githubusercontent.com/46364751/120251671-483c0f80-c250-11eb-8a64-21ca5495e17e.png)
+
+
 * The "quit" functionality works as expected and ends the chatbot R script as desired and returns to the regular R shell
+
+![image](https://user-images.githubusercontent.com/46364751/120251678-4e31f080-c250-11eb-99b1-ad697b06cabc.png)
 
 
 ### Installation / Software Requirements
