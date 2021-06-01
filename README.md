@@ -8,7 +8,7 @@
 
 ### Detailed Description 
 
-* This project utlilizes code from an R-blogger's project listed in the citation section below, but has been modified and reused for this separate purpose. Watkins, the ChatBot, attempts to answer questions about my professional profile and career
+* This project utlilizes code from an R-blogger's project listed in the citation section below (Learning Machines; January 26, 2021), but has been modified and reused for this separate purpose. Watkins, the ChatBot, attempts to answer questions about my professional profile and career
 
 * The R script has been uploaded which contains the main data model, a default model asking users to repeat the question in different ways and the evaluation code
 
@@ -36,7 +36,7 @@
 
 ### License / Citation
 
-* R-Bloggers Project reference: https://www.r-bloggers.com/2021/01/eliza-chatbot-in-r-build-yourself-a-shrink/
+* R-Bloggers Project reference (Learning Machines; January 26, 2021): https://www.r-bloggers.com/2021/01/eliza-chatbot-in-r-build-yourself-a-shrink/
 * R License: http://www.gnu.org/licenses/agpl-3.0.txt
 
 ### Support
